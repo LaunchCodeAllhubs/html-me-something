@@ -9,10 +9,10 @@ body {
     margin: 8px;
 }
 #mainHeading {
-    background-color: red;
+    color: red;
 }
 .funPharagraph {
-    background-color: green;
+    color: green;
 }
 header {
     margin: auto;
