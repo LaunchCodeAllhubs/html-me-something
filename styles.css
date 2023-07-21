@@ -1,1 +1,26 @@
-/* Write your CSS here! */
+#contactInfo {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    border: 1px solid black;
+}
+body {
+    display: block;
+    margin: 8px;
+}
+#mainHeading {
+    background-color: red;
+}
+.funPharagraph {
+    background-color: green;
+}
+header {
+    margin: auto;
+    width: 50%;
+    padding: 5px;
+}
+p {
+    margin: auto;
+    width: 50%;
+    padding: 5px;
+}
